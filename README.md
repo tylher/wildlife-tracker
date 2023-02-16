@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# wildlife-tracker
+>>>>>>> b1e480ff114f455d4aa69db27a175b2cf5885c7a
